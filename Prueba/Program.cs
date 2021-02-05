@@ -6,7 +6,7 @@ namespace Prueba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("maldita sea!");
+            Console.WriteLine("maldita sea!..");
         }
     }
 }
